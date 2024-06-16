@@ -18,7 +18,7 @@ More features are:
 
 **In this version of the app, I've replaced the command-line interface with a simple Tkinter-based graphical user interface (GUI)**.
 
-** Users can input the city name in a text entry field and click the "Get Weather" button to fetch and display the weather information correspondingly.
+**Users can input the city name in a text entry field and click the "Get Weather" button to fetch and display the weather information correspondingly.**
 
 
 ## Window Geometry: 
